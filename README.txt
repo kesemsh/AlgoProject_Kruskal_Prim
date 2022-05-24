@@ -1,4 +1,4 @@
-Algorithms project
+Algorithms project with C++ language
 
 Detailed description of the purpose of the project:
 The aim of the project is to implement a number of solutions to the problem of finding a minimal spreading tree, to explore
