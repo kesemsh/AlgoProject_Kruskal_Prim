@@ -1,0 +1,3 @@
+Kruskal <10>
+Prim <10>
+Kruskal <10>
