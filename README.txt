@@ -1,8 +1,5 @@
 Algorithms Course
 
-Name of student 1: Kesem Sharabi
-Name of student 2: Ofir Madar
-
 Detailed description of the purpose of the project:
 The aim of the project is to implement a number of solutions to the problem of finding a minimal spreading tree, to explore
 And analyze the differences between the different solutions.
