@@ -5,8 +5,8 @@ The aim of the project is to implement a number of solutions to the problem of f
 
 # Algorithms Implemented
 The MST's were calculated by two main algorithms:
-1. A kruskal algorithm where sorting is implemented by a quick-sort algorithm and Disjoint Sets (Forest). 
-   Addition: The user can enter one arc to be removed from the graph.
-   If the arc belonged to the MST found with kruskal, It will find a new MST without it.
-
+1. A kruskal algorithm where sorting is implemented by a quick-sort algorithm and Disjoint Sets (Forest).
 2. A prim algorithm when the priority queue is implemented by a binary stack.
+
+ Addition: The user can enter one arc to be removed from the graph.
+ If the arc belonged to the MST found with kruskal, It will find a new MST without it.
